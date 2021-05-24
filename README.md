@@ -1,2 +1,2 @@
 # Connect4
-Connect 4 logic building
+Logic of how to build in Connect 4 in java
